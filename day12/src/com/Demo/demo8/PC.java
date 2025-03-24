@@ -1,9 +1,10 @@
-package com.Demo.demo6;
+package com.Demo.demo8;
+
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
 import java.io.*;
 import java.net.Socket;
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
 
 public class PC {
     private static final Logger LOGGER = LoggerFactory.getLogger(com.Demo.demo5.PC.class);
